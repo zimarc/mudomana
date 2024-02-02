@@ -17,7 +17,7 @@ export default function Home() {
         {/* Content */}
         <p className="fixed left-0 top-0 flex w-full justify-center border-b border-gray-300 bg-gradient-to-b from-zinc-200 pb-6 pt-8 backdrop-blur-2xl dark:border-neutral-800 dark:bg-zinc-800/30 dark:from-inherit lg:static lg:w-auto  lg:rounded-xl lg:border lg:bg-gray-200 lg:p-4 lg:dark:bg-zinc-800/30 z-10">
           <h2 className={`mb-1 text-1xl font-semibold uppercase`}>
-            Join us on this journey where Mud meets Mmana
+            Join us on this journey where Mud meets Mmana &nbsp;
           </h2>
         </p>
         {/* ... Other content ... */}
@@ -71,10 +71,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm font-semibold`}>
-            "Hello Mudomaniacs! 🚧 Under Construction Alert! 🚧 Our pottery
-            paradise is currently in the kiln, getting ready to dazzle you.
-            Stay tuned for a clayful adventure - launching soon! Stay muddy,
-            Mudomana Team 🌈✨"
+           {"Hello Mudomaniacs! 🚧 Under Construction Alert! 🚧 Our pottery paradise is currently in the kiln, getting ready to dazzle you. Stay tuned for a clayful adventure - launching soon! Stay muddy,Mudomana Team 🌈✨"}
           </p>
         </a>
         {/* ... More grid items ... */}
