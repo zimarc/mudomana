@@ -41,7 +41,8 @@ export default function Home() {
       {/* Grid */}
       <div className="mb-32 text-center relative">
         <p className="m-0 text-sm font-semibold max-w-[40ch] mx-auto">
-          Hello Mudomaniacs! 🚧 Under Construction Alert! 🚧 Our pottery website is currently in the kiln, getting ready to dazzle you. Stay tuned for a clayful adventure - launching soon! Stay muddy, Mudomana Team 🌈✨
+        <h2 >🚧 Under Construction Alert!🚧</h2> 
+         Hello Mudomaniacs!  Our pottery website is currently in the kiln, getting ready to dazzle you. Stay tuned for a clayful adventure - launching soon! Stay muddy, Mudomana Team 🌈✨
         </p>
       </div>
     </main>
