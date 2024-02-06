@@ -14,7 +14,7 @@ export default function Home() {
         {/* Content */}
         <div className="mb-1 text-2xl font-semibold uppercase flex items-center justify-center">
           <span>
-            Join us on this journey where Mud meets Mmana &nbsp;
+            Join us on this journey where Mud meets Mmana...  &nbsp;
           </span>
           {/* Zimarc Logo */}
           <img
